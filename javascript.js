@@ -19,4 +19,4 @@ function createGrid(gridNumber) {
     }
 }
 
-createGrid(5);
+createGrid(30);
